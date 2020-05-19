@@ -1,6 +1,5 @@
-# homework_1
-first homework. 
-Changing unsemantic elements into semantic elements, as well as fixing a photo and adding alt tags.    
+homework_1, making changes to a provided html and css by changing syntax into semantic elements as well as adding to alt tags and fixing an img. 
 
-link to fixed site: 
-https://igottafindbubba.github.io/homework_1/
+link to url: 
+
+ https://igottafindbubba.github.io/homework_1/
